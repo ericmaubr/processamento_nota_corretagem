@@ -1,0 +1,2 @@
+# diretorio das notas de corretagem
+# um diretorio por linha

@@ -1,0 +1,4 @@
+# arquivo de senhas
+# formato
+# <diretorio> <senha>
+# ex: btg_john 123
