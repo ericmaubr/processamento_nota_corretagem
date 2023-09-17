@@ -1,0 +1,3 @@
+# formato
+# conta diretorio prefixo_arquivo
+001234567 btg_john john
