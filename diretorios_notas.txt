@@ -1,2 +1,7 @@
 # diretorio das notas de corretagem
 # um diretorio por linha
+# a barra no windows precisa ser /
+# precisa finalizar a linha com /
+# exemplo
+#C:/Users/John/notas_corretagem/202306/
+
